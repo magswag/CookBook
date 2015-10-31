@@ -9,4 +9,10 @@
     <color name="colorAccentA100">#F4FF81</color>
     <color name="colorAccentA200">#EEFF41</color>
     <color name="colorAccentA400">#C6FF00</color>
+
+    <color name="colorPrimary300red">#E57373</color>
+    <color name="colorPrimary500red">#F44336</color>
+    <color name="colorPrimary700red">#D32F2F</color>
+
+    <color name="transparentcolor">#00ffffff</color>
 </resources>
