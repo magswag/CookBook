@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">KokeBoka</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="title_activity_pannekaker">Pannekaker</string>
+    <string name="fremgangs">Fremgangsmåte:</string>
+    <string name="dutrenger">Du trenger:</string>
+    <string name="looks">Personalization</string>
+    <string name="theme">Theme</string>
+
+    <string name="themeSummary">Change the look of the app.</string>
+
+    <string-array name="themeEntr">
+        <item>Default</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Teal</item>
+        <item>Light</item>
+    </string-array>
+    
+    <string-array name="Themes" >
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+<string name="pannekake_need">3 dl hvetemel
+    1/2 ts salt
+    5 dl melk
+    4 egg
+    2 ss flytende margarin til steking
+</string>
+
+
+</resources>
